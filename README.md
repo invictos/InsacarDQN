@@ -36,3 +36,8 @@ Pour lancer le tensorboard :
 - tensorboard –-logdir logs
 - acceder à http://localhost:6006/
 
+## Références
+- Teigar H, Storozev M, Saks J, (2017). 2D Racing game using reinforcement learning and supervised learning, Consulté sur https://neuro.cs.ut.ee/wp-content/uploads/2018/02/2d_racing.pdf
+- Vitteli M, Nayebi A, (2014). A Deep Reinforcement Learning Approach to Autonomous Driving, Consulté sur https://web.stanford.edu/~anayebi/projects/CS_239_Final_Project_Writeup.pdf [3] V. Mnih, K. Kavukcuoglu, D. Silver, A. Graves, I. Antonoglou, D. Wierstra, M. Riedmiller (2013). Playing Atari with Deep Reinforcement Learning, Consulté sur https://arxiv.org/pdf/1312.5602.pdf
+- https://pythonprogramming.net/introduction-self-driving-autonomous-cars-carla-python/
+- https://fr.wikipedia.org/wiki/Q-learning
